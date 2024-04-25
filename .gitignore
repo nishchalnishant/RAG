@@ -1,0 +1,5 @@
+src/.env
+get_data/filings
+get_data/*.csv
+__pycache__
+.venv
